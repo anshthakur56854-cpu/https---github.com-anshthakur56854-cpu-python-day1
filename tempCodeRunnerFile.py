@@ -1,7 +1,8 @@
-F MR IS >= 1000 OTHERWISE 5% DISCAUN
 
 
-mrp float(input"Enter mrp of book: ")
+# num = int(input("Enter a number :"))
 
-discaunt = 0
-if mrp>= 10
+# i = 1 
+# while i <= 10: 
+#     print(f"{num} * {i} = {num * i}")
+#     i = i + 1
