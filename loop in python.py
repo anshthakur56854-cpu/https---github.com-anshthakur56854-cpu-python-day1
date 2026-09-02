@@ -116,3 +116,33 @@
 #      i = i + 1
 
 # print ("Factorial =", fact)
+
+
+# FOR LOOP :   RANG FUNCTION  :GENRATE SEQUENCE OF NUMBER 
+
+# ESKA USE KISI  KAM KO BAR BAR KRNE KE LIYE KIYA JTA H
+
+#Syntex :
+
+# for variable in sequence :
+#      code 
+
+
+
+# Eg :
+
+# for i in range(1,6):
+#     print(i)8
+
+
+# a = range(1,6,2)  #2 means 2 ka sequense h
+
+# for i in a:
+#     print(i)
+
+# num = int(input("Enter a number ;"))
+# for i in range(1,13,1):
+#     print(f"{num}*{i}={num*i}")s
+
+    
+ 
