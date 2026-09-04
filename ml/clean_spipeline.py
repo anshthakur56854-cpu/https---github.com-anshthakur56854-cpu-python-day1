@@ -20,3 +20,5 @@ df["FinalMarks"] = df["FinalMarks"].fillna(df["FinalMarks"].median())
 df.to_csv("cleaned_student_performance.csv", index=False)
 
 print("Cleaned dataset saved successfully")
+
+
